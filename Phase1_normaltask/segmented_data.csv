@@ -1,0 +1,349 @@
+Customer ID,Gender,Age,City,Membership Type,Total Spend,Items Purchased,Average Rating,Discount Applied,Days Since Last Purchase,Satisfaction Level,Segment,SegmentLabel,PCA1,PCA2
+101,Female,29,New York,Gold,1120.2,14,4.6,True,25,,0,"High Spending, Young Adults",1.458679043149956,0.41972291960306213
+102,Male,34,Los Angeles,Silver,780.5,11,4.1,False,18,,2,"High Income, Low Spending",-0.07738198795527133,-0.6057132705989208
+103,Female,43,Chicago,Bronze,510.75,9,3.4,True,42,,1,"Middle-aged, Moderate Spending",-2.556047819116064,-0.04668137856833755
+104,Male,30,San Francisco,Gold,1480.3,19,4.7,False,12,,0,"High Spending, Young Adults",2.847245241187657,-0.46388906952405073
+105,Male,27,Miami,Silver,720.4,13,4.0,True,55,,2,"High Income, Low Spending",-0.21391644523923614,2.5006647178843253
+106,Female,37,Houston,Bronze,440.8,8,3.1,False,22,,1,"Middle-aged, Moderate Spending",-2.112588982627855,-0.8007525400710771
+107,Female,31,New York,Gold,1150.6,15,4.5,True,28,,0,"High Spending, Young Adults",1.3064237083998202,0.4149500859705717
+108,Male,35,Los Angeles,Silver,800.9,12,4.2,False,14,,2,"High Income, Low Spending",0.16006467711645353,-0.9318540563921516
+109,Female,41,Chicago,Bronze,495.25,10,3.6,True,40,,1,"Middle-aged, Moderate Spending",-2.0771894559741853,0.07194282573549542
+110,Male,28,San Francisco,Gold,1520.1,21,4.8,False,9,,0,"High Spending, Young Adults",3.4593588403886213,-0.41495344125128797
+111,Male,32,Miami,Silver,690.3,11,3.8,True,34,,2,"High Income, Low Spending",-0.6373653749784384,0.5909248417289195
+112,Female,36,Houston,Bronze,470.5,7,3.2,False,20,,1,"Middle-aged, Moderate Spending",-1.9795879483309025,-0.8385301591564164
+113,Female,30,New York,Gold,1200.8,16,4.3,True,21,,0,"High Spending, Young Adults",1.5563772751133231,0.04191925942166195
+114,Male,33,Los Angeles,Silver,820.75,13,4.4,False,15,,2,"High Income, Low Spending",0.6250724685970919,-0.6247199507326546
+115,Female,42,Chicago,Bronze,530.4,9,3.5,True,38,,1,"Middle-aged, Moderate Spending",-2.274459450161702,-0.1939848885690185
+116,Male,29,San Francisco,Gold,1360.2,18,4.9,False,11,,0,"High Spending, Young Adults",2.8340742976214144,-0.40024086957049027
+117,Male,26,Miami,Silver,700.6,12,3.7,True,48,,2,"High Income, Low Spending",-0.389467745281081,2.08627231502228
+118,Female,38,Houston,Bronze,450.9,8,3.0,False,25,,1,"Middle-aged, Moderate Spending",-2.3310112361986244,-0.7222801009719585
+119,Female,32,New York,Gold,1170.3,14,4.7,True,29,,0,"High Spending, Young Adults",1.2823741509255635,0.3906685449953694
+120,Male,34,Los Angeles,Silver,790.2,11,4.0,False,16,,2,"High Income, Low Spending",-0.10748028714065569,-0.7514559917381685
+121,Female,43,Chicago,Bronze,505.75,10,3.3,True,41,,1,"Middle-aged, Moderate Spending",-2.5077970838733434,-0.10766695560786274
+122,Male,30,San Francisco,Gold,1470.5,20,4.8,False,13,,0,"High Spending, Young Adults",3.01872958025066,-0.3645710035555377
+123,Male,27,Miami,Silver,710.4,13,4.1,True,54,,2,"High Income, Low Spending",-0.12055782723484693,2.45283882929886
+124,Female,37,Houston,Bronze,430.8,7,3.4,False,23,,1,"Middle-aged, Moderate Spending",-2.00952950031297,-0.7070657764251357
+125,Female,31,New York,Gold,1140.6,15,4.6,True,27,,0,"High Spending, Young Adults",1.3997823264042093,0.36712419738510615
+126,Male,35,Los Angeles,Silver,810.9,12,4.3,False,13,,2,"High Income, Low Spending",0.28161715940487764,-0.9825665118073162
+127,Female,41,Chicago,Bronze,485.25,9,3.6,True,39,,1,"Middle-aged, Moderate Spending",-2.190357912793067,-0.009249408329546583
+128,Male,28,San Francisco,Gold,1500.1,21,4.9,False,10,,0,"High Spending, Young Adults",3.496165041728812,-0.33226144093713256
+129,Male,32,Miami,Silver,670.3,10,3.8,True,33,,2,"High Income, Low Spending",-0.7646307639393376,0.5111758910787269
+130,Female,36,Houston,Bronze,460.5,8,3.1,False,19,,1,"Middle-aged, Moderate Spending",-1.9383856791591905,-0.8987940944885174
+131,Female,30,New York,Gold,1190.8,16,4.5,True,20,,0,"High Spending, Young Adults",1.735963701003029,0.00936150157826699
+132,Male,33,Los Angeles,Silver,830.75,13,4.2,False,14,,2,"High Income, Low Spending",0.48794152722956724,-0.7212367983740314
+133,Female,42,Chicago,Bronze,520.4,9,3.5,True,37,,1,"Middle-aged, Moderate Spending",-2.2673286400426287,-0.2570789078965548
+134,Male,29,San Francisco,Gold,1370.2,18,4.7,False,10,,0,"High Spending, Young Adults",2.69694335625389,-0.49675771721186684
+135,Male,26,Miami,Silver,690.6,12,3.9,True,47,,2,"High Income, Low Spending",-0.2098813193913755,2.0537145571788846
+136,Female,38,Houston,Bronze,440.9,8,3.2,False,24,,1,"Middle-aged, Moderate Spending",-2.1514248103089186,-0.7548378588153536
+137,Female,32,New York,Gold,1160.3,14,4.4,True,22,,0,"High Spending, Young Adults",1.1581879909552324,-0.10545368301269284
+138,Male,34,Los Angeles,Silver,800.2,11,4.1,False,17,,2,"High Income, Low Spending",-0.028383289374412986,-0.6730938416685616
+139,Female,43,Chicago,Bronze,500.75,10,3.3,True,40,,1,"Middle-aged, Moderate Spending",-2.493617807683262,-0.17148261664282388
+140,Male,30,San Francisco,Gold,1460.5,20,4.8,False,12,,0,"High Spending, Young Adults",3.0258603903697336,-0.42766502288307395
+141,Male,27,Miami,Silver,700.4,13,4.0,True,53,,2,"High Income, Low Spending",-0.19965482500108966,2.374476679229253
+142,Female,37,Houston,Bronze,420.8,7,3.1,False,21,,1,"Middle-aged, Moderate Spending",-2.2398543715887547,-0.8805014907212696
+143,Female,31,New York,Gold,1130.6,15,4.5,True,26,,0,"High Spending, Young Adults",1.3206853286379665,0.28876204731549937
+144,Male,35,Los Angeles,Silver,820.9,12,4.3,False,12,,2,"High Income, Low Spending",0.3169418338079858,-1.0485470979645515
+145,Female,41,Chicago,Bronze,480.25,9,3.6,True,38,,1,"Middle-aged, Moderate Spending",-2.176178636602985,-0.07306506936450743
+146,Male,28,San Francisco,Gold,1490.1,21,4.9,False,9,,0,"High Spending, Young Adults",3.503295851847886,-0.39535546026466906
+147,Male,32,Miami,Silver,680.3,10,3.8,True,32,,2,"High Income, Low Spending",-0.7293060895362293,0.4451953049214917
+148,Female,36,Houston,Bronze,470.5,8,3.0,False,18,,1,"Middle-aged, Moderate Spending",-1.9892888126413986,-0.9800428113878233
+149,Female,30,New York,Gold,1180.8,16,4.7,True,19,,0,"High Spending, Young Adults",1.9155501268927353,-0.02319625626512785
+150,Male,34,Los Angeles,Silver,790.2,11,4.0,False,15,,2,"High Income, Low Spending",-0.08625254487956499,-0.8159932944805541
+151,Female,43,Chicago,Bronze,505.75,10,3.3,True,39,,1,"Middle-aged, Moderate Spending",-2.465341599351162,-0.2367415610926341
+152,Male,30,San Francisco,Gold,1470.5,20,4.8,False,13,,0,"High Spending, Young Adults",3.01872958025066,-0.3645710035555377
+153,Male,27,Miami,Silver,710.4,13,4.1,True,54,,2,"High Income, Low Spending",-0.12055782723484693,2.45283882929886
+154,Female,37,Houston,Bronze,430.8,7,3.4,False,23,,1,"Middle-aged, Moderate Spending",-2.00952950031297,-0.7070657764251357
+155,Female,31,New York,Gold,1140.6,15,4.6,True,27,,0,"High Spending, Young Adults",1.3997823264042093,0.36712419738510615
+156,Male,35,Los Angeles,Silver,810.9,12,4.3,False,13,,2,"High Income, Low Spending",0.28161715940487764,-0.9825665118073162
+157,Female,41,Chicago,Bronze,485.25,9,3.6,True,39,,1,"Middle-aged, Moderate Spending",-2.190357912793067,-0.009249408329546583
+158,Male,28,San Francisco,Gold,1500.1,21,4.9,False,10,,0,"High Spending, Young Adults",3.496165041728812,-0.33226144093713256
+159,Male,32,Miami,Silver,670.3,10,3.8,True,33,,2,"High Income, Low Spending",-0.7646307639393376,0.5111758910787269
+160,Female,36,Houston,Bronze,460.5,8,3.1,False,19,,1,"Middle-aged, Moderate Spending",-1.9383856791591905,-0.8987940944885174
+161,Female,30,New York,Gold,1190.8,16,4.5,True,20,,0,"High Spending, Young Adults",1.735963701003029,0.00936150157826699
+162,Male,33,Los Angeles,Silver,830.75,13,4.2,False,14,,2,"High Income, Low Spending",0.48794152722956724,-0.7212367983740314
+163,Female,42,Chicago,Bronze,520.4,9,3.5,True,37,,1,"Middle-aged, Moderate Spending",-2.2673286400426287,-0.2570789078965548
+164,Male,29,San Francisco,Gold,1370.2,18,4.7,False,10,,0,"High Spending, Young Adults",2.69694335625389,-0.49675771721186684
+165,Male,26,Miami,Silver,690.6,12,3.9,True,47,,2,"High Income, Low Spending",-0.2098813193913755,2.0537145571788846
+166,Female,38,Houston,Bronze,440.9,8,3.2,False,24,,1,"Middle-aged, Moderate Spending",-2.1514248103089186,-0.7548378588153536
+167,Female,32,New York,Gold,1160.3,14,4.4,True,22,,0,"High Spending, Young Adults",1.1581879909552324,-0.10545368301269284
+168,Male,34,Los Angeles,Silver,800.2,11,4.1,False,17,,2,"High Income, Low Spending",-0.028383289374412986,-0.6730938416685616
+169,Female,43,Chicago,Bronze,500.75,10,3.3,True,40,,1,"Middle-aged, Moderate Spending",-2.493617807683262,-0.17148261664282388
+170,Male,30,San Francisco,Gold,1460.5,20,4.8,False,12,,0,"High Spending, Young Adults",3.0258603903697336,-0.42766502288307395
+171,Male,27,Miami,Silver,700.4,13,4.0,True,53,,2,"High Income, Low Spending",-0.19965482500108966,2.374476679229253
+173,Female,31,New York,Gold,1130.6,15,4.5,True,26,,0,"High Spending, Young Adults",1.3206853286379665,0.28876204731549937
+174,Male,35,Los Angeles,Silver,820.9,12,4.3,False,12,,2,"High Income, Low Spending",0.3169418338079858,-1.0485470979645515
+175,Female,41,Chicago,Bronze,480.25,9,3.6,True,38,,1,"Middle-aged, Moderate Spending",-2.176178636602985,-0.07306506936450743
+176,Male,28,San Francisco,Gold,1490.1,21,4.9,False,9,,0,"High Spending, Young Adults",3.503295851847886,-0.39535546026466906
+177,Male,32,Miami,Silver,680.3,10,3.8,True,32,,2,"High Income, Low Spending",-0.7293060895362293,0.4451953049214917
+178,Female,36,Houston,Bronze,470.5,8,3.0,False,18,,1,"Middle-aged, Moderate Spending",-1.9892888126413986,-0.9800428113878233
+179,Female,30,New York,Gold,1180.8,16,4.7,True,19,,0,"High Spending, Young Adults",1.9155501268927353,-0.02319625626512785
+180,Male,34,Los Angeles,Silver,790.2,11,4.0,False,15,,2,"High Income, Low Spending",-0.08625254487956499,-0.8159932944805541
+181,Female,43,Chicago,Bronze,505.75,10,3.3,True,39,,1,"Middle-aged, Moderate Spending",-2.465341599351162,-0.2367415610926341
+182,Male,30,San Francisco,Gold,1470.5,20,4.8,False,13,,0,"High Spending, Young Adults",3.01872958025066,-0.3645710035555377
+183,Male,27,Miami,Silver,710.4,13,4.1,True,54,,2,"High Income, Low Spending",-0.12055782723484693,2.45283882929886
+184,Female,37,Houston,Bronze,430.8,7,3.4,False,23,,1,"Middle-aged, Moderate Spending",-2.00952950031297,-0.7070657764251357
+185,Female,31,New York,Gold,1140.6,15,4.6,True,27,,0,"High Spending, Young Adults",1.3997823264042093,0.36712419738510615
+186,Male,35,Los Angeles,Silver,810.9,12,4.3,False,13,,2,"High Income, Low Spending",0.28161715940487764,-0.9825665118073162
+187,Female,41,Chicago,Bronze,485.25,9,3.6,True,39,,1,"Middle-aged, Moderate Spending",-2.190357912793067,-0.009249408329546583
+188,Male,28,San Francisco,Gold,1500.1,21,4.9,False,10,,0,"High Spending, Young Adults",3.496165041728812,-0.33226144093713256
+189,Male,32,Miami,Silver,670.3,10,3.8,True,33,,2,"High Income, Low Spending",-0.7646307639393376,0.5111758910787269
+190,Female,36,Houston,Bronze,460.5,8,3.1,False,19,,1,"Middle-aged, Moderate Spending",-1.9383856791591905,-0.8987940944885174
+191,Female,30,New York,Gold,1190.8,16,4.5,True,20,,0,"High Spending, Young Adults",1.735963701003029,0.00936150157826699
+192,Male,33,Los Angeles,Silver,830.75,13,4.2,False,14,,2,"High Income, Low Spending",0.48794152722956724,-0.7212367983740314
+193,Female,42,Chicago,Bronze,520.4,9,3.5,True,37,,1,"Middle-aged, Moderate Spending",-2.2673286400426287,-0.2570789078965548
+194,Male,29,San Francisco,Gold,1370.2,18,4.7,False,10,,0,"High Spending, Young Adults",2.69694335625389,-0.49675771721186684
+195,Male,26,Miami,Silver,690.6,12,3.9,True,47,,2,"High Income, Low Spending",-0.2098813193913755,2.0537145571788846
+196,Female,38,Houston,Bronze,440.9,8,3.2,False,24,,1,"Middle-aged, Moderate Spending",-2.1514248103089186,-0.7548378588153536
+197,Female,32,New York,Gold,1160.3,14,4.4,True,22,,0,"High Spending, Young Adults",1.1581879909552324,-0.10545368301269284
+198,Male,34,Los Angeles,Silver,800.2,11,4.1,False,17,,2,"High Income, Low Spending",-0.028383289374412986,-0.6730938416685616
+199,Female,43,Chicago,Bronze,500.75,10,3.3,True,40,,1,"Middle-aged, Moderate Spending",-2.493617807683262,-0.17148261664282388
+200,Male,30,San Francisco,Gold,1460.5,20,4.8,False,12,,0,"High Spending, Young Adults",3.0258603903697336,-0.42766502288307395
+201,Male,27,Miami,Silver,700.4,13,4.0,True,53,,2,"High Income, Low Spending",-0.19965482500108966,2.374476679229253
+202,Female,37,Houston,Bronze,420.8,7,3.1,False,21,,1,"Middle-aged, Moderate Spending",-2.2398543715887547,-0.8805014907212696
+203,Female,31,New York,Gold,1130.6,15,4.5,True,26,,0,"High Spending, Young Adults",1.3206853286379665,0.28876204731549937
+204,Male,35,Los Angeles,Silver,820.9,12,4.3,False,12,,2,"High Income, Low Spending",0.3169418338079858,-1.0485470979645515
+205,Female,41,Chicago,Bronze,480.25,9,3.6,True,38,,1,"Middle-aged, Moderate Spending",-2.176178636602985,-0.07306506936450743
+206,Male,28,San Francisco,Gold,1490.1,21,4.9,False,9,,0,"High Spending, Young Adults",3.503295851847886,-0.39535546026466906
+207,Male,32,Miami,Silver,680.3,10,3.8,True,32,,2,"High Income, Low Spending",-0.7293060895362293,0.4451953049214917
+208,Female,36,Houston,Bronze,470.5,8,3.0,False,18,,1,"Middle-aged, Moderate Spending",-1.9892888126413986,-0.9800428113878233
+209,Female,30,New York,Gold,1180.8,16,4.7,True,19,,0,"High Spending, Young Adults",1.9155501268927353,-0.02319625626512785
+210,Male,34,Los Angeles,Silver,790.2,11,4.0,False,15,,2,"High Income, Low Spending",-0.08625254487956499,-0.8159932944805541
+211,Female,43,Chicago,Bronze,505.75,10,3.3,True,39,,1,"Middle-aged, Moderate Spending",-2.465341599351162,-0.2367415610926341
+212,Male,30,San Francisco,Gold,1470.5,20,4.8,False,13,,0,"High Spending, Young Adults",3.01872958025066,-0.3645710035555377
+213,Male,27,Miami,Silver,710.4,13,4.1,True,54,,2,"High Income, Low Spending",-0.12055782723484693,2.45283882929886
+214,Female,37,Houston,Bronze,430.8,7,3.4,False,23,,1,"Middle-aged, Moderate Spending",-2.00952950031297,-0.7070657764251357
+215,Female,31,New York,Gold,1140.6,15,4.6,True,27,,0,"High Spending, Young Adults",1.3997823264042093,0.36712419738510615
+216,Male,35,Los Angeles,Silver,810.9,12,4.3,False,13,,2,"High Income, Low Spending",0.28161715940487764,-0.9825665118073162
+217,Female,41,Chicago,Bronze,485.25,9,3.6,True,39,,1,"Middle-aged, Moderate Spending",-2.190357912793067,-0.009249408329546583
+218,Male,28,San Francisco,Gold,1500.1,21,4.9,False,10,,0,"High Spending, Young Adults",3.496165041728812,-0.33226144093713256
+219,Male,32,Miami,Silver,670.3,10,3.8,True,33,,2,"High Income, Low Spending",-0.7646307639393376,0.5111758910787269
+220,Female,36,Houston,Bronze,460.5,8,3.1,False,19,,1,"Middle-aged, Moderate Spending",-1.9383856791591905,-0.8987940944885174
+221,Female,30,New York,Gold,1190.8,16,4.5,True,20,,0,"High Spending, Young Adults",1.735963701003029,0.00936150157826699
+222,Male,33,Los Angeles,Silver,830.75,13,4.2,False,14,,2,"High Income, Low Spending",0.48794152722956724,-0.7212367983740314
+223,Female,42,Chicago,Bronze,520.4,9,3.5,True,37,,1,"Middle-aged, Moderate Spending",-2.2673286400426287,-0.2570789078965548
+224,Male,29,San Francisco,Gold,1370.2,18,4.7,False,10,,0,"High Spending, Young Adults",2.69694335625389,-0.49675771721186684
+225,Male,26,Miami,Silver,690.6,12,3.9,True,47,,2,"High Income, Low Spending",-0.2098813193913755,2.0537145571788846
+226,Female,38,Houston,Bronze,440.9,8,3.2,False,24,,1,"Middle-aged, Moderate Spending",-2.1514248103089186,-0.7548378588153536
+227,Female,32,New York,Gold,1160.3,14,4.4,True,22,,0,"High Spending, Young Adults",1.1581879909552324,-0.10545368301269284
+228,Male,34,Los Angeles,Silver,800.2,11,4.1,False,17,,2,"High Income, Low Spending",-0.028383289374412986,-0.6730938416685616
+229,Female,43,Chicago,Bronze,500.75,10,3.3,True,40,,1,"Middle-aged, Moderate Spending",-2.493617807683262,-0.17148261664282388
+230,Male,30,San Francisco,Gold,1460.5,20,4.8,False,12,,0,"High Spending, Young Adults",3.0258603903697336,-0.42766502288307395
+231,Male,27,Miami,Silver,700.4,13,4.0,True,53,,2,"High Income, Low Spending",-0.19965482500108966,2.374476679229253
+232,Female,37,Houston,Bronze,420.8,7,3.1,False,21,,1,"Middle-aged, Moderate Spending",-2.2398543715887547,-0.8805014907212696
+233,Female,31,New York,Gold,1130.6,15,4.5,True,26,,0,"High Spending, Young Adults",1.3206853286379665,0.28876204731549937
+234,Male,35,Los Angeles,Silver,820.9,12,4.3,False,12,,2,"High Income, Low Spending",0.3169418338079858,-1.0485470979645515
+235,Female,41,Chicago,Bronze,480.25,9,3.6,True,38,,1,"Middle-aged, Moderate Spending",-2.176178636602985,-0.07306506936450743
+236,Male,28,San Francisco,Gold,1490.1,21,4.9,False,9,,0,"High Spending, Young Adults",3.503295851847886,-0.39535546026466906
+237,Male,32,Miami,Silver,680.3,10,3.8,True,32,,2,"High Income, Low Spending",-0.7293060895362293,0.4451953049214917
+238,Female,36,Houston,Bronze,470.5,8,3.0,False,18,,1,"Middle-aged, Moderate Spending",-1.9892888126413986,-0.9800428113878233
+239,Female,30,New York,Gold,1180.8,16,4.7,True,19,,0,"High Spending, Young Adults",1.9155501268927353,-0.02319625626512785
+240,Male,34,Los Angeles,Silver,790.2,11,4.0,False,15,,2,"High Income, Low Spending",-0.08625254487956499,-0.8159932944805541
+241,Female,43,Chicago,Bronze,505.75,10,3.3,True,39,,1,"Middle-aged, Moderate Spending",-2.465341599351162,-0.2367415610926341
+242,Male,30,San Francisco,Gold,1470.5,20,4.8,False,13,,0,"High Spending, Young Adults",3.01872958025066,-0.3645710035555377
+243,Male,27,Miami,Silver,710.4,13,4.1,True,54,,2,"High Income, Low Spending",-0.12055782723484693,2.45283882929886
+245,Female,31,New York,Gold,1130.6,15,4.5,True,26,,0,"High Spending, Young Adults",1.3206853286379665,0.28876204731549937
+246,Male,35,Los Angeles,Silver,820.9,12,4.3,False,12,,2,"High Income, Low Spending",0.3169418338079858,-1.0485470979645515
+247,Female,41,Chicago,Bronze,480.25,9,3.6,True,38,,1,"Middle-aged, Moderate Spending",-2.176178636602985,-0.07306506936450743
+248,Male,28,San Francisco,Gold,1490.1,21,4.9,False,9,,0,"High Spending, Young Adults",3.503295851847886,-0.39535546026466906
+249,Male,32,Miami,Silver,680.3,10,3.8,True,32,,2,"High Income, Low Spending",-0.7293060895362293,0.4451953049214917
+250,Female,36,Houston,Bronze,470.5,8,3.0,False,18,,1,"Middle-aged, Moderate Spending",-1.9892888126413986,-0.9800428113878233
+251,Female,30,New York,Gold,1180.8,16,4.7,True,19,,0,"High Spending, Young Adults",1.9155501268927353,-0.02319625626512785
+252,Male,34,Los Angeles,Silver,790.2,11,4.0,False,15,,2,"High Income, Low Spending",-0.08625254487956499,-0.8159932944805541
+253,Female,43,Chicago,Bronze,505.75,10,3.3,True,39,,1,"Middle-aged, Moderate Spending",-2.465341599351162,-0.2367415610926341
+254,Male,30,San Francisco,Gold,1470.5,20,4.8,False,13,,0,"High Spending, Young Adults",3.01872958025066,-0.3645710035555377
+255,Male,27,Miami,Silver,710.4,13,4.1,True,54,,2,"High Income, Low Spending",-0.12055782723484693,2.45283882929886
+256,Female,37,Houston,Bronze,430.8,7,3.4,False,23,,1,"Middle-aged, Moderate Spending",-2.00952950031297,-0.7070657764251357
+257,Female,31,New York,Gold,1140.6,15,4.6,True,27,,0,"High Spending, Young Adults",1.3997823264042093,0.36712419738510615
+258,Male,35,Los Angeles,Silver,810.9,12,4.3,False,13,,2,"High Income, Low Spending",0.28161715940487764,-0.9825665118073162
+259,Female,41,Chicago,Bronze,485.25,9,3.6,True,39,,1,"Middle-aged, Moderate Spending",-2.190357912793067,-0.009249408329546583
+260,Male,28,San Francisco,Gold,1500.1,21,4.9,False,10,,0,"High Spending, Young Adults",3.496165041728812,-0.33226144093713256
+261,Male,32,Miami,Silver,670.3,10,3.8,True,33,,2,"High Income, Low Spending",-0.7646307639393376,0.5111758910787269
+262,Female,36,Houston,Bronze,460.5,8,3.1,False,19,,1,"Middle-aged, Moderate Spending",-1.9383856791591905,-0.8987940944885174
+263,Female,30,New York,Gold,1190.8,16,4.5,True,20,,0,"High Spending, Young Adults",1.735963701003029,0.00936150157826699
+264,Male,33,Los Angeles,Silver,830.75,13,4.2,False,14,,2,"High Income, Low Spending",0.48794152722956724,-0.7212367983740314
+265,Female,42,Chicago,Bronze,520.4,9,3.5,True,37,,1,"Middle-aged, Moderate Spending",-2.2673286400426287,-0.2570789078965548
+266,Male,29,San Francisco,Gold,1370.2,18,4.7,False,10,,0,"High Spending, Young Adults",2.69694335625389,-0.49675771721186684
+267,Male,26,Miami,Silver,690.6,12,3.9,True,47,,2,"High Income, Low Spending",-0.2098813193913755,2.0537145571788846
+268,Female,38,Houston,Bronze,440.9,8,3.2,False,24,,1,"Middle-aged, Moderate Spending",-2.1514248103089186,-0.7548378588153536
+269,Female,32,New York,Gold,1160.3,14,4.4,True,22,,0,"High Spending, Young Adults",1.1581879909552324,-0.10545368301269284
+270,Male,34,Los Angeles,Silver,800.2,11,4.1,False,17,,2,"High Income, Low Spending",-0.028383289374412986,-0.6730938416685616
+271,Female,43,Chicago,Bronze,500.75,10,3.3,True,40,,1,"Middle-aged, Moderate Spending",-2.493617807683262,-0.17148261664282388
+272,Male,30,San Francisco,Gold,1460.5,20,4.8,False,12,,0,"High Spending, Young Adults",3.0258603903697336,-0.42766502288307395
+273,Male,27,Miami,Silver,700.4,13,4.0,True,53,,2,"High Income, Low Spending",-0.19965482500108966,2.374476679229253
+274,Female,37,Houston,Bronze,430.8,7,3.4,False,23,,1,"Middle-aged, Moderate Spending",-2.00952950031297,-0.7070657764251357
+275,Female,31,New York,Gold,1140.6,15,4.5,True,27,,0,"High Spending, Young Adults",1.3135545185188933,0.3518560666430354
+276,Male,35,Los Angeles,Silver,820.9,12,4.3,False,12,,2,"High Income, Low Spending",0.3169418338079858,-1.0485470979645515
+277,Female,41,Chicago,Bronze,480.25,9,3.6,True,38,,1,"Middle-aged, Moderate Spending",-2.176178636602985,-0.07306506936450743
+278,Male,28,San Francisco,Gold,1490.1,21,4.9,False,9,,0,"High Spending, Young Adults",3.503295851847886,-0.39535546026466906
+279,Male,32,Miami,Silver,680.3,10,3.8,True,32,,2,"High Income, Low Spending",-0.7293060895362293,0.4451953049214917
+280,Female,36,Houston,Bronze,470.5,8,3.0,False,18,,1,"Middle-aged, Moderate Spending",-1.9892888126413986,-0.9800428113878233
+281,Female,30,New York,Gold,1180.8,16,4.7,True,19,,0,"High Spending, Young Adults",1.9155501268927353,-0.02319625626512785
+282,Male,34,Los Angeles,Silver,790.2,11,4.0,False,15,,2,"High Income, Low Spending",-0.08625254487956499,-0.8159932944805541
+283,Female,43,Chicago,Bronze,505.75,10,3.3,True,39,,1,"Middle-aged, Moderate Spending",-2.465341599351162,-0.2367415610926341
+284,Male,30,San Francisco,Gold,1470.5,20,4.8,False,13,,0,"High Spending, Young Adults",3.01872958025066,-0.3645710035555377
+285,Male,27,Miami,Silver,710.4,13,4.1,True,54,,2,"High Income, Low Spending",-0.12055782723484693,2.45283882929886
+286,Female,37,Houston,Bronze,430.8,7,3.4,False,23,,1,"Middle-aged, Moderate Spending",-2.00952950031297,-0.7070657764251357
+287,Female,31,New York,Gold,1130.6,15,4.5,True,26,,0,"High Spending, Young Adults",1.3206853286379665,0.28876204731549937
+288,Male,35,Los Angeles,Silver,820.9,12,4.3,False,13,,2,"High Income, Low Spending",0.2957140915468951,-0.9840097952221657
+289,Female,41,Chicago,Bronze,485.25,9,3.6,True,39,,1,"Middle-aged, Moderate Spending",-2.190357912793067,-0.009249408329546583
+290,Male,28,San Francisco,Gold,1500.1,21,4.9,False,10,,0,"High Spending, Young Adults",3.496165041728812,-0.33226144093713256
+291,Male,32,Miami,Silver,670.3,10,3.8,True,33,,2,"High Income, Low Spending",-0.7646307639393376,0.5111758910787269
+292,Female,36,Houston,Bronze,460.5,8,3.1,False,19,,1,"Middle-aged, Moderate Spending",-1.9383856791591905,-0.8987940944885174
+293,Female,30,New York,Gold,1190.8,16,4.5,True,20,,0,"High Spending, Young Adults",1.735963701003029,0.00936150157826699
+294,Male,33,Los Angeles,Silver,830.75,13,4.2,False,14,,2,"High Income, Low Spending",0.48794152722956724,-0.7212367983740314
+295,Female,42,Chicago,Bronze,520.4,9,3.5,True,37,,1,"Middle-aged, Moderate Spending",-2.2673286400426287,-0.2570789078965548
+296,Male,29,San Francisco,Gold,1370.2,18,4.7,False,10,,0,"High Spending, Young Adults",2.69694335625389,-0.49675771721186684
+297,Male,26,Miami,Silver,690.6,12,3.9,True,47,,2,"High Income, Low Spending",-0.2098813193913755,2.0537145571788846
+298,Female,38,Houston,Bronze,440.9,8,3.2,False,24,,1,"Middle-aged, Moderate Spending",-2.1514248103089186,-0.7548378588153536
+299,Female,32,New York,Gold,1160.3,14,4.4,True,22,,0,"High Spending, Young Adults",1.1581879909552324,-0.10545368301269284
+300,Male,34,Los Angeles,Silver,800.2,11,4.1,False,17,,2,"High Income, Low Spending",-0.028383289374412986,-0.6730938416685616
+301,Male,36,San Francisco,Gold,1420.8,19,4.6,False,11,,0,"High Spending, Young Adults",2.201873707124717,-1.1255886995119742
+302,Female,29,Miami,Silver,730.4,14,4.0,True,50,,2,"High Income, Low Spending",-0.13887977558504694,1.9978058912211134
+303,Female,35,Houston,Bronze,450.6,7,3.3,False,21,,1,"Middle-aged, Moderate Spending",-1.859891657303673,-0.6574389695394397
+304,Male,31,New York,Gold,1210.6,17,4.8,True,18,,0,"High Spending, Young Adults",2.1025646813946905,-0.15708182024115866
+305,Male,27,Los Angeles,Silver,780.9,11,4.2,False,16,,2,"High Income, Low Spending",0.631109024297229,-0.030682121719426615
+306,Female,42,Chicago,Bronze,495.25,10,3.5,True,35,,1,"Middle-aged, Moderate Spending",-2.1400276729196666,-0.3644254408554739
+307,Male,29,San Francisco,Gold,1390.2,18,4.7,False,9,,0,"High Spending, Young Adults",2.7463649627990154,-0.5641815867839516
+308,Male,26,Miami,Silver,670.6,12,3.9,True,46,,2,"High Income, Low Spending",-0.21684744141431947,1.992063821266198
+309,Female,38,Houston,Bronze,460.9,8,3.2,False,25,,1,"Middle-aged, Moderate Spending",-2.144458688285974,-0.6931871229026667
+310,Female,32,New York,Gold,1170.3,14,4.5,True,21,,0,"High Spending, Young Adults",1.2797404732436564,-0.15616613842785756
+311,Male,34,Los Angeles,Silver,810.2,11,4.0,False,14,,2,"High Income, Low Spending",-0.036830938334439414,-0.8834171640526387
+312,Female,43,Chicago,Bronze,515.75,9,3.3,True,38,,1,"Middle-aged, Moderate Spending",-2.550316191886009,-0.3208203619873751
+313,Male,30,San Francisco,Gold,1450.5,20,4.8,False,12,,0,"High Spending, Young Adults",3.011763458227716,-0.42622173946822434
+314,Male,27,Miami,Silver,690.4,13,4.1,True,52,,2,"High Income, Low Spending",-0.10629620699670056,2.3266507906437877
+315,Female,37,Houston,Bronze,420.8,7,3.4,False,24,,1,"Middle-aged, Moderate Spending",-2.044854174716078,-0.6410851902679003
+316,Female,31,New York,Gold,1130.6,15,4.5,True,26,,0,"High Spending, Young Adults",1.3206853286379665,0.28876204731549937
+317,Male,35,Los Angeles,Silver,820.9,12,4.3,False,13,,2,"High Income, Low Spending",0.2957140915468951,-0.9840097952221657
+318,Female,41,Chicago,Bronze,480.25,9,3.6,True,39,,1,"Middle-aged, Moderate Spending",-2.1974063788640756,-0.008527766622121813
+319,Male,28,San Francisco,Gold,1490.1,21,4.9,False,9,,0,"High Spending, Young Adults",3.503295851847886,-0.39535546026466906
+320,Male,32,Miami,Silver,680.3,10,3.8,True,32,,2,"High Income, Low Spending",-0.7293060895362293,0.4451953049214917
+321,Female,36,Houston,Bronze,470.5,8,3.0,False,18,,1,"Middle-aged, Moderate Spending",-1.9892888126413986,-0.9800428113878233
+322,Female,30,New York,Gold,1180.8,16,4.7,True,19,,0,"High Spending, Young Adults",1.9155501268927353,-0.02319625626512785
+323,Male,34,Los Angeles,Silver,790.2,11,4.0,False,15,,2,"High Income, Low Spending",-0.08625254487956499,-0.8159932944805541
+324,Female,43,Chicago,Bronze,505.75,10,3.3,True,39,,1,"Middle-aged, Moderate Spending",-2.465341599351162,-0.2367415610926341
+325,Male,30,San Francisco,Gold,1470.5,20,4.8,False,13,,0,"High Spending, Young Adults",3.01872958025066,-0.3645710035555377
+326,Male,27,Miami,Silver,710.4,13,4.1,True,54,,2,"High Income, Low Spending",-0.12055782723484693,2.45283882929886
+327,Female,37,Houston,Bronze,430.8,7,3.4,False,23,,1,"Middle-aged, Moderate Spending",-2.00952950031297,-0.7070657764251357
+328,Female,31,New York,Gold,1140.6,15,4.5,True,27,,0,"High Spending, Young Adults",1.3135545185188933,0.3518560666430354
+329,Male,35,Los Angeles,Silver,820.9,12,4.3,False,13,,2,"High Income, Low Spending",0.2957140915468951,-0.9840097952221657
+330,Female,41,Chicago,Bronze,485.25,9,3.6,True,39,,1,"Middle-aged, Moderate Spending",-2.190357912793067,-0.009249408329546583
+331,Male,28,San Francisco,Gold,1500.1,21,4.9,False,10,,0,"High Spending, Young Adults",3.496165041728812,-0.33226144093713256
+332,Male,32,Miami,Silver,670.3,10,3.8,True,33,,2,"High Income, Low Spending",-0.7646307639393376,0.5111758910787269
+333,Female,36,Houston,Bronze,460.5,8,3.1,False,19,,1,"Middle-aged, Moderate Spending",-1.9383856791591905,-0.8987940944885174
+334,Female,30,New York,Gold,1190.8,16,4.5,True,20,,0,"High Spending, Young Adults",1.735963701003029,0.00936150157826699
+335,Male,33,Los Angeles,Silver,830.75,13,4.2,False,14,,2,"High Income, Low Spending",0.48794152722956724,-0.7212367983740314
+336,Female,42,Chicago,Bronze,520.4,9,3.5,True,37,,1,"Middle-aged, Moderate Spending",-2.2673286400426287,-0.2570789078965548
+337,Male,29,San Francisco,Gold,1370.2,18,4.7,False,10,,0,"High Spending, Young Adults",2.69694335625389,-0.49675771721186684
+338,Male,26,Miami,Silver,690.6,12,3.9,True,47,,2,"High Income, Low Spending",-0.2098813193913755,2.0537145571788846
+339,Female,38,Houston,Bronze,440.9,8,3.2,False,24,,1,"Middle-aged, Moderate Spending",-2.1514248103089186,-0.7548378588153536
+340,Female,32,New York,Gold,1160.3,14,4.4,True,22,,0,"High Spending, Young Adults",1.1581879909552324,-0.10545368301269284
+341,Male,34,Los Angeles,Silver,800.2,11,4.1,False,17,,2,"High Income, Low Spending",-0.028383289374412986,-0.6730938416685616
+342,Female,43,Chicago,Bronze,525.75,9,3.3,True,40,,1,"Middle-aged, Moderate Spending",-2.578674744266173,-0.19318903991745334
+343,Male,30,San Francisco,Gold,1460.5,20,4.8,False,11,,0,"High Spending, Young Adults",3.047088132630824,-0.4922023256254596
+344,Male,27,Miami,Silver,720.4,13,4.0,True,55,,2,"High Income, Low Spending",-0.21391644523923634,2.5006647178843258
+345,Female,37,Houston,Bronze,440.8,7,3.2,False,25,,1,"Middle-aged, Moderate Spending",-2.210343668463766,-0.6099707158393549
+346,Female,31,New York,Gold,1150.6,15,4.5,True,28,,0,"High Spending, Young Adults",1.3064237083998202,0.4149500859705717
+347,Male,35,Los Angeles,Silver,830.9,12,4.3,False,14,,2,"High Income, Low Spending",0.2885832814278219,-0.9209157758946295
+348,Female,41,Chicago,Bronze,490.25,9,3.6,True,40,,1,"Middle-aged, Moderate Spending",-2.204537188983149,0.054566252705414264
+349,Male,28,San Francisco,Gold,1480.1,21,4.9,False,10,,0,"High Spending, Young Adults",3.4679711774447775,-0.3293748741074336
+350,Male,32,Miami,Silver,690.3,10,3.8,True,34,,2,"High Income, Low Spending",-0.7576646419163932,0.5728266269914136
+351,Female,36,Houston,Bronze,480.5,8,3.1,False,20,,1,"Middle-aged, Moderate Spending",-1.9314195571362462,-0.8371433585758308
+352,Female,30,New York,Gold,1170.8,16,4.7,True,21,,0,"High Spending, Young Adults",1.8589977102285364,0.10732163263449303
+353,Male,34,Los Angeles,Silver,790.2,11,4.0,False,15,,2,"High Income, Low Spending",-0.08625254487956499,-0.8159932944805541
+354,Female,43,Chicago,Bronze,510.75,10,3.3,True,41,,1,"Middle-aged, Moderate Spending",-2.5007486178023353,-0.10838859731528762
+355,Male,30,San Francisco,Gold,1440.5,19,4.6,False,12,,0,"High Spending, Young Adults",2.704911643377111,-0.47341293227502207
+356,Male,27,Miami,Silver,700.4,13,4.1,True,56,,2,"High Income, Low Spending",-0.17711024389904578,2.5833567181984805
+357,Female,37,Houston,Bronze,410.8,7,3.4,False,26,,1,"Middle-aged, Moderate Spending",-2.1014065913802766,-0.5105673013682795
+358,Female,31,New York,Gold,1160.6,15,4.5,True,29,,0,"High Spending, Young Adults",1.2992928982807468,0.4780441052981079
+359,Male,35,Los Angeles,Silver,810.9,12,4.3,False,14,,2,"High Income, Low Spending",0.26038941714378694,-0.9180292090649306
+360,Female,41,Chicago,Bronze,495.25,9,3.6,True,41,,1,"Middle-aged, Moderate Spending",-2.2187164651732307,0.11838191374037538
+361,Male,28,San Francisco,Gold,1490.1,21,4.9,False,10,,0,"High Spending, Young Adults",3.482068109586795,-0.33081815752228316
+362,Male,32,Miami,Silver,660.3,10,3.8,True,35,,2,"High Income, Low Spending",-0.8211831806035361,0.6416937799783476
+363,Female,36,Houston,Bronze,430.5,8,3.1,False,21,,1,"Middle-aged, Moderate Spending",-2.0231319601074245,-0.7653896387591979
+364,Female,30,New York,Gold,1200.8,16,4.7,True,22,,0,"High Spending, Young Adults",1.8800607643934981,0.16752908513233028
+365,Male,34,Los Angeles,Silver,780.2,11,4.1,False,16,,2,"High Income, Low Spending",-0.03534941139735711,-0.7347445775812483
+366,Female,43,Chicago,Bronze,505.75,10,3.3,True,42,,1,"Middle-aged, Moderate Spending",-2.529024826134434,-0.04312965286547708
+367,Male,30,San Francisco,Gold,1460.5,20,4.8,False,13,,0,"High Spending, Young Adults",3.0046326481086427,-0.3631277201406881
+368,Male,27,Miami,Silver,710.4,13,4.1,True,57,,2,"High Income, Low Spending",-0.184241054018119,2.6464507375260173
+369,Female,37,Houston,Bronze,450.8,7,3.4,False,24,,1,"Middle-aged, Moderate Spending",-2.0025633782900254,-0.645415040512449
+370,Female,31,New York,Gold,1140.6,15,4.5,True,30,,0,"High Spending, Young Adults",1.2498712917356214,0.5454679748701925
+371,Male,35,Los Angeles,Silver,800.9,12,4.1,False,17,,2,"High Income, Low Spending",0.010153642447864722,-0.7535102789070652
+372,Female,41,Chicago,Bronze,475.25,9,3.6,True,42,,1,"Middle-aged, Moderate Spending",-2.2681380717183557,0.18580578331245992
+373,Male,28,San Francisco,Gold,1480.1,21,4.9,False,11,,0,"High Spending, Young Adults",3.4467434351836865,-0.264837571365048
+374,Male,32,Miami,Silver,660.3,10,3.8,True,36,,2,"High Income, Low Spending",-0.8424109228646269,0.7062310827207335
+375,Female,36,Houston,Bronze,470.5,8,3.0,False,22,,1,"Middle-aged, Moderate Spending",-2.074199781685761,-0.7218936004182807
+376,Female,30,New York,Gold,1190.8,16,4.5,True,23,,0,"High Spending, Young Adults",1.6722804742197572,0.2029734098054242
+377,Male,33,Los Angeles,Silver,770.2,11,4.2,False,18,,2,"High Income, Low Spending",0.07707510018937912,-0.4905449358025867
+378,Female,43,Chicago,Bronze,515.75,10,3.3,True,43,,1,"Middle-aged, Moderate Spending",-2.5361556362535076,0.01996436646205913
+379,Male,30,San Francisco,Gold,1450.5,19,4.6,False,12,,0,"High Spending, Young Adults",2.719008575519128,-0.4748562156898716
+380,Male,27,Miami,Silver,710.4,13,4.1,True,58,,2,"High Income, Low Spending",-0.20546879627920975,2.7109880402684032
+381,Female,37,Houston,Bronze,430.8,7,3.4,False,27,,1,"Middle-aged, Moderate Spending",-2.0944404693573326,-0.4489165654555928
+382,Female,31,New York,Gold,1160.6,15,4.5,True,31,,0,"High Spending, Young Adults",1.2568374137585656,0.6071187107828794
+383,Male,35,Los Angeles,Silver,820.9,12,4.3,False,15,,2,"High Income, Low Spending",0.2532586070247137,-0.8549351897373942
+384,Female,41,Chicago,Bronze,495.25,9,3.6,True,43,,1,"Middle-aged, Moderate Spending",-2.2611719496954126,0.24745651922514686
+385,Male,28,San Francisco,Gold,1490.1,21,4.9,False,10,,0,"High Spending, Young Adults",3.482068109586795,-0.33081815752228316
+386,Male,32,Miami,Silver,660.3,10,3.8,True,37,,2,"High Income, Low Spending",-0.8636386651257176,0.7707683854631192
+387,Female,36,Houston,Bronze,440.5,8,3.1,False,23,,1,"Middle-aged, Moderate Spending",-2.051490512487588,-0.6377583166892759
+388,Female,30,New York,Gold,1200.8,16,4.7,True,24,,0,"High Spending, Young Adults",1.8376052798713167,0.29660369061710173
+389,Male,34,Los Angeles,Silver,780.2,11,4.1,False,16,,2,"High Income, Low Spending",-0.03534941139735711,-0.7347445775812483
+390,Female,43,Chicago,Bronze,505.75,10,3.3,True,44,,1,"Middle-aged, Moderate Spending",-2.5714803106566153,0.08594495261929432
+391,Male,30,San Francisco,Gold,1460.5,20,4.8,False,13,,0,"High Spending, Young Adults",3.0046326481086427,-0.3631277201406881
+392,Male,27,Miami,Silver,710.4,13,4.1,True,59,,2,"High Income, Low Spending",-0.22669653854030045,2.7755253430107887
+393,Female,37,Houston,Bronze,450.8,7,3.4,False,28,,1,"Middle-aged, Moderate Spending",-2.087474347334388,-0.38726582954290606
+394,Female,31,New York,Gold,1140.6,15,4.5,True,32,,0,"High Spending, Young Adults",1.2074158072134398,0.674542580354964
+395,Male,35,Los Angeles,Silver,800.9,12,4.1,False,17,,2,"High Income, Low Spending",0.010153642447864722,-0.7535102789070652
+396,Female,41,Chicago,Bronze,475.25,9,3.6,True,44,,1,"Middle-aged, Moderate Spending",-2.3105935562405375,0.3148803887972316
+397,Male,28,San Francisco,Gold,1480.1,21,4.9,False,12,,0,"High Spending, Young Adults",3.4255156929225956,-0.20030026862266226
+398,Male,32,Miami,Silver,660.3,10,3.8,True,38,,2,"High Income, Low Spending",-0.8848664073868084,0.835305688205505
+399,Female,36,Houston,Bronze,470.5,8,3.0,False,22,,1,"Middle-aged, Moderate Spending",-2.074199781685761,-0.7218936004182807
+400,Female,30,New York,Gold,1190.8,16,4.5,True,25,,0,"High Spending, Young Adults",1.6298249896975756,0.3320480152901957
+401,Male,33,Los Angeles,Silver,800.2,11,4.1,False,18,,2,"High Income, Low Spending",0.033138088730114805,-0.510142916789206
+402,Female,43,Chicago,Bronze,515.75,10,3.3,True,45,,1,"Middle-aged, Moderate Spending",-2.5786111207756885,0.14903897194683075
+403,Male,30,San Francisco,Gold,1450.5,19,4.6,False,13,,0,"High Spending, Young Adults",2.6977808332580375,-0.41031891294748585
+404,Male,27,Miami,Silver,710.4,13,4.1,True,60,,2,"High Income, Low Spending",-0.2479242808013911,2.8400626457531746
+405,Female,37,Houston,Bronze,430.8,7,3.4,False,29,,1,"Middle-aged, Moderate Spending",-2.136895953879514,-0.3198419599708213
+406,Female,31,New York,Gold,1160.6,15,4.5,True,33,,0,"High Spending, Young Adults",1.2143819292363842,0.7361933162676507
+407,Male,35,Los Angeles,Silver,820.9,12,4.3,False,16,,2,"High Income, Low Spending",0.232030864763623,-0.7903978869950087
+408,Female,41,Chicago,Bronze,495.25,9,3.6,True,45,,1,"Middle-aged, Moderate Spending",-2.3036274342175935,0.3765311247099182
+409,Male,28,San Francisco,Gold,1490.1,21,4.9,False,11,,0,"High Spending, Young Adults",3.460840367325704,-0.26628085477989744
+410,Male,32,Miami,Silver,660.3,10,3.8,True,39,,2,"High Income, Low Spending",-0.9060941496478989,0.8998429909478906
+411,Female,36,Houston,Bronze,440.5,8,3.1,False,24,,1,"Middle-aged, Moderate Spending",-2.072718254748679,-0.5732210139468902
+412,Female,30,New York,Gold,1200.8,16,4.7,True,25,,0,"High Spending, Young Adults",1.816377537610226,0.3611409933594875
+413,Male,34,Los Angeles,Silver,780.2,11,4.1,False,17,,2,"High Income, Low Spending",-0.056577153658447815,-0.6702072748388626
+414,Female,43,Chicago,Bronze,505.75,10,3.3,True,46,,1,"Middle-aged, Moderate Spending",-2.6139357951787967,0.2150195581040661
+415,Male,30,San Francisco,Gold,1460.5,20,4.8,False,14,,0,"High Spending, Young Adults",2.9834049058475522,-0.29859041739830244
+416,Male,27,Miami,Silver,710.4,13,4.1,True,61,,2,"High Income, Low Spending",-0.26915202306248187,2.9045999484955605
+417,Female,37,Houston,Bronze,450.8,7,3.4,False,30,,1,"Middle-aged, Moderate Spending",-2.1299298318565696,-0.25819122405813466
+418,Female,31,New York,Gold,1140.6,15,4.5,True,34,,0,"High Spending, Young Adults",1.1649603226912584,0.8036171858397354
+419,Male,35,Los Angeles,Silver,800.9,12,4.1,False,19,,2,"High Income, Low Spending",-0.03230184207431674,-0.6244356734222937
+420,Female,41,Chicago,Bronze,475.25,9,3.6,True,46,,1,"Middle-aged, Moderate Spending",-2.353049040762719,0.44395499428200313
+421,Male,28,San Francisco,Gold,1480.1,21,4.9,False,12,,0,"High Spending, Young Adults",3.4255156929225956,-0.20030026862266226
+422,Male,32,Miami,Silver,660.3,10,3.8,True,40,,2,"High Income, Low Spending",-0.9273218919089896,0.9643802936902761
+423,Female,36,Houston,Bronze,470.5,8,3.0,False,26,,1,"Middle-aged, Moderate Spending",-2.1591107507301244,-0.4637443894487377
+424,Female,30,New York,Gold,1190.8,16,4.5,True,27,,0,"High Spending, Young Adults",1.5873695051753942,0.4611226207749671
+425,Male,34,Los Angeles,Silver,780.2,11,4.2,False,18,,2,"High Income, Low Spending",0.008422911965778216,-0.5904018413544062
+426,Female,43,Chicago,Bronze,515.75,10,3.3,True,47,,1,"Middle-aged, Moderate Spending",-2.6210666052978704,0.2781135774316021
+427,Male,30,San Francisco,Gold,1450.5,19,4.6,False,14,,0,"High Spending, Young Adults",2.676553090996947,-0.3457816102051001
+428,Male,27,Miami,Silver,710.4,13,4.1,True,62,,2,"High Income, Low Spending",-0.2903797653235725,2.969137251237946
+429,Female,37,Houston,Bronze,430.8,7,3.4,False,31,,1,"Middle-aged, Moderate Spending",-2.1793514384016954,-0.1907673544860499
+430,Female,31,New York,Gold,1160.6,15,4.5,True,35,,0,"High Spending, Young Adults",1.1719264447142026,0.8652679217524225
+431,Male,35,Los Angeles,Silver,820.9,12,4.3,False,20,,2,"High Income, Low Spending",0.1471198957192602,-0.5322486760254658
+432,Female,41,Chicago,Bronze,495.25,9,3.6,True,47,,1,"Middle-aged, Moderate Spending",-2.346082918739775,0.5056057301946898
+433,Male,28,San Francisco,Gold,1490.1,21,4.9,False,11,,0,"High Spending, Young Adults",3.460840367325704,-0.26628085477989744
+434,Male,32,Miami,Silver,660.3,10,3.8,True,41,,2,"High Income, Low Spending",-0.9485496341700804,1.028917596432662
+435,Female,36,Houston,Bronze,440.5,8,3.1,False,28,,1,"Middle-aged, Moderate Spending",-2.157629223793042,-0.3150718029773471
+436,Female,30,New York,Gold,1200.8,16,4.7,True,28,,0,"High Spending, Young Adults",1.752694310826954,0.5547529015866447
+437,Male,34,Los Angeles,Silver,780.2,11,4.1,False,19,,2,"High Income, Low Spending",-0.0990326381806292,-0.5411326693540912
+438,Female,43,Chicago,Bronze,505.75,10,3.3,True,48,,1,"Middle-aged, Moderate Spending",-2.6563912797009785,0.34409416358883743
+439,Male,30,San Francisco,Gold,1460.5,20,4.8,False,15,,0,"High Spending, Young Adults",2.9621771635864618,-0.23405311465591677
+440,Male,27,Miami,Silver,710.4,13,4.1,True,63,,2,"High Income, Low Spending",-0.31160750758466316,3.033674553980332
+441,Female,37,Houston,Bronze,450.8,7,3.4,False,32,,1,"Middle-aged, Moderate Spending",-2.172385316378751,-0.12911661857336326
+442,Female,31,New York,Gold,1140.6,15,4.5,True,36,,0,"High Spending, Young Adults",1.122504838169077,0.932691791324507
+443,Male,35,Los Angeles,Silver,800.9,12,4.1,False,20,,2,"High Income, Low Spending",-0.05352958433540739,-0.5598983706799081
+444,Female,41,Chicago,Bronze,475.25,9,3.6,True,48,,1,"Middle-aged, Moderate Spending",-2.3955045252849008,0.5730295997667746
+445,Male,28,San Francisco,Gold,1480.1,21,4.9,False,13,,0,"High Spending, Young Adults",3.4042879506615056,-0.13576296588027661
+446,Male,32,Miami,Silver,660.3,10,3.8,True,42,,2,"High Income, Low Spending",-0.9697773764311712,1.0934548991750477
+447,Female,36,Houston,Bronze,470.5,8,3.0,False,27,,1,"Middle-aged, Moderate Spending",-2.180338492991215,-0.399207086706352
+448,Female,30,New York,Gold,1190.8,16,4.5,True,28,,0,"High Spending, Young Adults",1.5661417629143035,0.5256599235173528
+449,Male,34,Los Angeles,Silver,780.2,11,4.2,False,21,,2,"High Income, Low Spending",-0.05526031481749383,-0.3967899331272492
+450,Female,43,Chicago,Bronze,515.75,10,3.3,True,49,,1,"Middle-aged, Moderate Spending",-2.663522089820052,0.40718818291637365
